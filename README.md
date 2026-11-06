@@ -1,14 +1,14 @@
-# BST
+# BST 
 
 This project is designed to enhance your gaming experience and help you get the most enjoyment out of the game by introducing new, realistic sounds created by BST.
 
 ------------------------------------------------------------
-ABOUT THE PATCH
+🚂 ABOUT THE PATCH
 ------------------------------------------------------------
 The BST Patch is a modification for ZDSimulator™ that replaces the original sounds of locomotives and rolling stock with improved versions, while also modifying the mechanics of how these sounds are played.
 
 ------------------------------------------------------------
-SYSTEM REQUIREMENTS
+🛠 SYSTEM REQUIREMENTS
 ------------------------------------------------------------
 For the patch to function correctly, you need:
 - ZDSimulator™ version: 60.3 Steam
@@ -16,7 +16,7 @@ For the patch to function correctly, you need:
 - Windows OS
 
 ------------------------------------------------------------
-INSTRUCTIONS FOR INSTALLATION, LAUNCH, AND USE
+📌 INSTRUCTIONS FOR INSTALLATION, LAUNCH, AND USE
 ------------------------------------------------------------
 Please follow these instructions carefully:
 1.  We recommend backing up your original sound files (the 'sound' folder) and any custom sound files you may have added (the 'BST' folder). Also, please disable your antivirus software before installation.
@@ -34,7 +34,7 @@ Be sure to follow the steps below to ensure the patch works correctly.
 12.  If you plan to replace the patch's sounds with your own custom ones, they MUST meet the following specifications to play correctly in-game: 44100 Hz, 16-bit, WAV format.
 
 ------------------------------------------------------------
-TROUBLESHOOTING (FAQ)
+🔧 TROUBLESHOOTING (FAQ)
 ------------------------------------------------------------
 Question: The game crashes during loading.
 Answer: Ensure that you have the latest versions of both the game and the patch installed. Try verifying the integrity of the original game files via the Steam menu, or reinstall the game.
@@ -48,27 +48,27 @@ Answer: Close the game. Open and then close the patch loader. If that doesn't he
 Please report any issues you encounter, or ask questions regarding the patch, in the comments section under the pinned post on the BST project's Telegram channel.
 
 ------------------------------------------------------------
-GUIDE: ADDING CUSTOM SOUNDS FOR SPECIFIC LIVERIES
+📌 GUIDE: ADDING CUSTOM SOUNDS FOR SPECIFIC LIVERIES
 ------------------------------------------------------------
 You can now add unique sounds for each locomotive livery (paint scheme). To do this, create a subfolder named after the livery inside the locomotive's folder (e.g., `ZDSimulator\BST\VL11M\VL8_222`, where `VL8_222` is the livery subfolder). IMPORTANT: The name of the livery subfolder must exactly match the name of the livery as it appears in the game launcher. Next, create subfolders for the required sounds within that folder and place the sound files inside them (if you are adding a whistle/horn, create a subfolder named `horn`; if adding compressors/fans, create a subfolder named `equip`). The structure of subfolders and files within the livery subfolder must be identical to the structure of the locomotive's main folder.
 As an example, the patch includes specific sounds for the `VL8_222` livery.
 
 ------------------------------------------------------------
-CREDITS AND ACKNOWLEDGMENTS
+🤝 CREDITS AND ACKNOWLEDGMENTS
 ------------------------------------------------------------
 Project Author: BELAHA (BST Team)
 Special thanks to: ZLOI.PAROVOZ for providing sounds, as well as for active testing and promoting the patch.
 Also, a big thank you to everyone who has contributed—or continues to contribute—to the fundraising campaign in support of the project, and to those who have helped (and continue to help) by spreading the word about this patch.
 
 ------------------------------------------------------------
-DISCLAIMER
+⚠️ DISCLAIMER
 ------------------------------------------------------------
 This patch is a fan-made product.
 The author is not responsible for any damage to game files or your software.
 You install this patch at your own risk.
 
 ------------------------------------------------------------
-CONTACT & SUPPORT
+📨 CONTACT & SUPPORT
 ------------------------------------------------------------
 TELEGRAM (always the latest version of the patch): https://t.me/BST_project
 Support the project's development: 4874 1000 2723 0187 or https://send.monobank.ua/jar/6A83s5bBJ3
@@ -78,7 +78,7 @@ TIKTOK: https://www.tiktok.com/@BelahaGamer
 TWITCH: https://www.twitch.tv/belaha_streams
 
 ------------------------------------------------------------
-LATEST UPDATES
+🆕 LATEST UPDATES
 ------------------------------------------------------------
 06.11.2026 - Ver 1.6 Beta
 -  Patch adapted for ZDSimulator™ version 60.3;
