@@ -86,7 +86,6 @@ TWITCH: https://www.twitch.tv/belaha_streams
 -  Fixed traffic movement sounds in scenario mode;
 -  Added volume ramp-up for traffic movement (from start-up to acceleration) for Multiplayer and scenario modes;
 -  Added brake release sounds upon departure for passenger carriages and EMUs/DMUs (player and traffic) in Multiplayer and scenario modes;
--  Added sounds for the ER9p;
 -  Improved numerous locomotive sounds;
 -  Code adjustments for greater stability and smoother patch performance.
 
