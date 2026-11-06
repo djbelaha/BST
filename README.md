@@ -21,7 +21,7 @@ INSTRUCTIONS FOR INSTALLATION, LAUNCH, AND USE
 Please follow these instructions carefully:
 1.  We recommend backing up your original sound files (the 'sound' folder) and any custom sound files you may have added (the 'BST' folder). Also, please disable your antivirus software before installation.
 2.  Uninstall any previous version of the patch using `unins.exe` (please be careful to use the `unins.exe` file that features the BST icon).
-3.  Run the `BST_Setup_1.2_Beta.exe` file and install the patch into the game's root directory (for example: `C:\Program Files\Steam\steamapps\common\ZDSimulator`). If the patch fails to automatically detect the location of the game folder on your PC, you will need to specify it manually.
+3.  Run the `BST_Setup_ver._Beta.exe` file and install the patch into the game's root directory (for example: `C:\Program Files\Steam\steamapps\common\ZDSimulator`). If the patch fails to automatically detect the location of the game folder on your PC, you will need to specify it manually.
 Be sure to follow the steps below to ensure the patch works correctly.
 4.  Launch the ZDSimulator™ game launcher and configure the necessary settings. DO NOT click the "Launch Simulator!" button; do not start the game yet!
 5.  Run the patch (using the BST.exe file located in the game's root folder or the "BST Loader" shortcut on your desktop). The patch loader window will appear.
